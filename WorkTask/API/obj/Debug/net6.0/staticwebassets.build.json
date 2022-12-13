@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "a0G/0h7Qfre+rqaEVl0NV0mFfYijOba0/6AHWVEBnP0=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\Umid\\Desktop\\WorkTask\\WorkTask\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Umid\\Desktop\\WorkTask\\WorkTask\\API\\wwwroot\\Templates\\Confirm.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Umid\\Desktop\\WorkTask\\WorkTask\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Templates/Confirm.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\Confirm.html"
+    }
+  ]
+}
